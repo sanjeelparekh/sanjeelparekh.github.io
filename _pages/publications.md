@@ -36,14 +36,14 @@ ICASSP 2017
 
 **Audio / Image / Signal Processing**
 
-Deep pairwise classification and ranking for predicting media interestingness  
+- Deep pairwise classification and ranking for predicting media interestingness  
 J. Parekh, H. Tibrewal, S. Parekh  
 ACM ICMR 2018
 
-Improving audio retrieval through loudness profile categorization  
+- Improving audio retrieval through loudness profile categorization  
 S. Parekh, F. Font, X. Serra  
 IEEE ISM 2016
 
-Nyquist filter design using POCS methods: Including constraints in design  
+- Nyquist filter design using POCS methods: Including constraints in design  
 S. Parekh, P. Shah  
 IEEE ISSPIT 2014
