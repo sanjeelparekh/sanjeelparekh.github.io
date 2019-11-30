@@ -14,7 +14,8 @@ Hi! I am a research engineer at Telecom Paris. I recently defended my PhD on [le
 
 Through these pages, I wish to share work that I do and if possible, other content/ideas that I find engaging in areas of interest such as research, music, philosophy, etc. Hope you enjoy it!
 
+
 <p style="color:#b30000">Recent updates</p>
 
- - Delivered a tutorial on audiovisual music processing at ISMIR 2019 [more](/2019-ismir2019/)  
+ - Delivered a tutorial on audiovisual music processing at ISMIR 2019 [more](/talks/2019-ismir2019/)  
  - Awarded ISMIR 2019 community grant
