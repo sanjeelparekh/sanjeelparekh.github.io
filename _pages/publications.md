@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Multimodal Learning**
+<p style="color:#b30000;"> Multimodal Learning </p>
 
 - Weakly supervised representation learning for unsynchronized audio-visual events  
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
