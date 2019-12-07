@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I grew up learning North Indian Classical vocals and thanks to stay at different residential schools and universities, I had the opportunity to learn from several teachers and friends various aspects of Indian and other music styles. I list these below, in chronological order:
+I grew up learning North Indian Classical vocals and thanks to stay at different residential schools and universities, I had the opportunity to learn from several teachers and friends various aspects of Indian and other music styles. I acknowledge them below, in chronological order:
 
 - Pramod Kishan Sir, Ramdev ji (Vocals, Jodhpur)
 - Nikhil Kshirsagar Sir, Tulika Akka (Vocals, Sahyadri-Pune)
