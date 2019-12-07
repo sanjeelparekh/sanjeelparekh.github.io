@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : sanjeel parekh
 title_separator          : "-"
 name                     : &name Sanjeel Parekh
-description              : &description Research Engineer at Telecom Paris
+description              : &description Postdoctoral Research Engineer at Telecom Paris
 url                      : https://sanjeelparekh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sanjeelparekh/sanjeelparekh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : Sanjeel Parekh
   avatar           : "profile.png"
-  bio              : Research Engineer at Telecom Paris
+  bio              : Postdoctoral Research Engineer at Telecom Paris
   location         : Paris
   employer         :
   pubmed           : 
