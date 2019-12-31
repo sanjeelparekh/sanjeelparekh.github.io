@@ -7,4 +7,7 @@ main:
     url: /talks/    
 
   - title: "Music"
-    url: /music/    
+    url: /music/
+
+  - title: "CV"
+    url: /cv/    

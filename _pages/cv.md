@@ -9,28 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
-Work experience
-======
-
-Skills
-======
-
-
-Publications
-======
-  
-  
-Talks
-======
-  
-  
-Teaching
-======
-  
-  
-Service and leadership
-======
-
+CV - Last Updated Dec. 2019 [PDF](/files/CV_Sanjeel.pdf)
