@@ -86,7 +86,7 @@ author:
   location         : Paris
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=0k_gLpsAAAAJ&hl=en
+  googlescholar    : "https://scholar.google.com/citations?user=0k_gLpsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
