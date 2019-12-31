@@ -16,7 +16,7 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 - Weakly supervised representation learning for unsynchronized audio-visual events  
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 CVPR Workshop on Sight and Sound 2018   [video](https://www.youtube.com/watch?v=C-jrZ9SDMDY)  
-Extended version accepted to IEEE Transactions on Audio, Speech and Language Processing, 2019
+Extended version accepted to IEEE/ACM Transactions on Audio, Speech and Language Processing, 2019
 
 - Identify, locate and separate: Audio-visual object extraction in large video collections using weak supervision  
 S. Parekh, A. Ozerov, S. Essid, N. Duong, P. Pérez, G. Richard  
