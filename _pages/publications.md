@@ -15,7 +15,7 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 
 <p style="color:#b30000;"> Multimodal Learning </p>
 
-#### Filed Patents 
+### Filed Patents 
 - Weakly Supervised Learning for Audio-Visual Events, 2018.  
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 
@@ -23,7 +23,7 @@ S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 US 15956021
 
-#### Book Chapter and Journals
+### Book Chapter and Journals
 
 - Weakly supervised representation learning for audio-visual scene analysis  
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
@@ -33,7 +33,7 @@ IEEE/ACM Transactions on Audio, Speech and Language Processing, 2019
 S. Essid, S. Parekh, N. Duong, R. Serizel, A. Ozerov, F. Antonacci, A. Sarti  
 Book chapter in Computational Analysis of Sound Scenes and Events, Springer, 2018
 
-#### International Conferences and Workshops
+### International Conferences and Workshops
 - Identify, locate and separate: Audio-visual object extraction in large video collections using weak supervision  
 S. Parekh, A. Ozerov, S. Essid, N. Duong, P. Pérez, G. Richard  
 WASPAA 2019   [supplementary material](https://perso.telecom-paristech.fr/sparekh/ile2019_supp.html)
@@ -52,7 +52,7 @@ ICASSP 2017
 
 <p style="color:#b30000;">Audio / Image / Signal Processing </p>
 
-#### International Conferences and Workshops
+### International Conferences and Workshops
 - Deep pairwise classification and ranking for predicting media interestingness  
 J. Parekh, H. Tibrewal, S. Parekh  
 ACM ICMR 2018 [code](https://github.com/jayneelparekh/Interestingness_ICMR)
