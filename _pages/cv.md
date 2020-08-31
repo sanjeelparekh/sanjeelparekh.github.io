@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV - Last Updated Aug. 2020 [PDF](/files/CV_08-2020.pdf)
+Short two-page CV - Last Updated Aug. 2020 [PDF](/files/CV_08-2020.pdf)
