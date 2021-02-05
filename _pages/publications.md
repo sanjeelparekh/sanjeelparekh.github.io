@@ -13,6 +13,11 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 
 
 
+### Pre-prints
+- Emotion Transfer Using Vector-Valued Infinite Task Learning.  
+A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc.  
+[paper](/files/vITL_emotransfer.pdf), [code](https://github.com/allambert/torch_itl/tree/master)
+
 <p style="color:#b30000;"> Multimodal Learning </p>
 
 ### Filed Patents 
@@ -22,11 +27,6 @@ S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard
 - New approaches to motion informed audio source separation, 2017.  
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 US 15956021
-
-### Preprints
-- Emotion Transfer Using Vector-Valued Infinite Task Learning
-A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc
-[paper](/files/vITL_emotransfer.pdf), [code](https://github.com/allambert/torch_itl/tree/master)
 
 ### Book Chapter and Journals
 
