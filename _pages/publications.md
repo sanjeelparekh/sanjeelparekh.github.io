@@ -23,6 +23,11 @@ S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 US 15956021
 
+### Preprints
+- Emotion Transfer Using Vector-Valued Infinite Task Learning
+A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc
+[paper](/files/vITL_emotransfer.pdf), [code](https://github.com/allambert/torch_itl/tree/master)
+
 ### Book Chapter and Journals
 
 - Weakly supervised representation learning for audio-visual scene analysis  
