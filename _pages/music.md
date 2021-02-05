@@ -18,9 +18,9 @@ I grew up learning North Indian Classical vocals and thanks to stay at different
 
 <p style="color:#b30000;">Recordings</p>
 
-<iframe width="180" height="100" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" height="200" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="180" height="100" src="https://www.youtube.com/embed/8_Cg6OV_jcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" height="200" src="https://www.youtube.com/embed/8_Cg6OV_jcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="50%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/79222268&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
