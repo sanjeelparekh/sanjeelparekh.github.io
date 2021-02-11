@@ -14,7 +14,7 @@ Through these pages, I wish to share work that I do and if possible, other conte
 
 
 <p style="color:#b30000">Recent updates</p>
- - May 2020: Invited talk at ATAL AI Faculty Development Prorgam (FDP) [more](/talks/2020-atalai/)
+ - May 2020: Invited talk at ATAL AI Faculty Development Program (FDP) [more](/talks/2020-atalai/)
  - Jan 2020: Seminar at ENS Lyon with Team DANTE!
  - Nov 2019: Delivered a tutorial on audiovisual music processing at ISMIR 2019 [more](/talks/2019-ismir2019/)  
  - Aug 2019: Awarded ISMIR 2019 community grant
