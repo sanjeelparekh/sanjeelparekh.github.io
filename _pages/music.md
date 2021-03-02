@@ -16,11 +16,10 @@ I grew up learning North Indian Classical vocals and thanks to stay at different
 - Shri Kundanmal ji (Vocals, Jaipur)
 - Mostafa (Western music basics and Violin, Rennes)
 
-{% include video id="AbZJpdP0g9Y" provider="youtube" %}
-```html
+
 <p style="color:#b30000;">Recordings</p>
 
-<iframe width="100" height="100" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0"> </iframe>
+<iframe width="50%" height="300" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0"> </iframe>
 
 <iframe width="100" height="100" src="https://www.youtube.com/embed/8_Cg6OV_jcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </iframe>
 
@@ -30,7 +29,6 @@ I grew up learning North Indian Classical vocals and thanks to stay at different
 
 <iframe width="50%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/77792660&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-```
 
 
 
