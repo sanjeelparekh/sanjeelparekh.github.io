@@ -17,7 +17,7 @@ I grew up learning North Indian Classical vocals and thanks to stay at different
 - Mostafa (Western music basics and Violin, Rennes)
 
 <p style="color:#b30000;">Recordings</p>
-
+{% include video id="AbZJpdP0g9Y" provider="youtube" %}
 <iframe width="100" height="100" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0"> </iframe>
 
 <iframe width="50% !important" height="50% !important" src="https://www.youtube.com/embed/8_Cg6OV_jcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
