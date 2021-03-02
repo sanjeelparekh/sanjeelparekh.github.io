@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Short two-page CV - Last Updated Feb. 2021 [PDF](/files/CV_02-2021.pdf)
+Short CV - Last Updated Feb. 2021 [PDF](/files/CV_SanjeelParekh_02-2021.pdf)

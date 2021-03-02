@@ -20,14 +20,6 @@ A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc.
 
 <p style="color:#b30000;"> Multimodal Learning </p>
 
-### Filed Patents 
-- Weakly Supervised Learning for Audio-Visual Events, 2018.  
-S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
-
-- New approaches to motion informed audio source separation, 2017.  
-S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
-US 15956021
-
 ### Book Chapter and Journals
 
 - Weakly supervised representation learning for audio-visual scene analysis  
@@ -69,3 +61,13 @@ IEEE ISM 2016
 - Nyquist filter design using POCS methods: Including constraints in design  
 S. Parekh, P. Shah  
 IEEE ISSPIT 2014
+
+
+### Filed Patents 
+- Weakly Supervised Learning for Audio-Visual Events, 2018.  
+S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
+EP3540634A1
+
+- New approaches to motion informed audio source separation, 2017.  
+S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
+US15956021
