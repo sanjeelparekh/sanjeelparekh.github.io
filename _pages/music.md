@@ -19,7 +19,7 @@ I grew up learning North Indian Classical vocals and thanks to stay at different
 
 <p style="color:#b30000;">Recordings</p>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0"> </iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0"> </iframe>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8_Cg6OV_jcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </iframe>
 
