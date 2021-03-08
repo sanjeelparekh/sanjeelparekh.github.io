@@ -23,7 +23,7 @@ I grew up learning North Indian Classical vocals and thanks to stay at different
 
 <iframe width="560" height="340" src="https://www.youtube.com/embed/8_Cg6OV_jcA" frameborder="0"> </iframe>
 
-<iframe width="80%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/79222268&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/79222268&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sanjeel-parekh" title="Sanjeel Parekh" target="_blank" style="color: #cccccc; text-decoration: none;">Sanjeel Parekh</a> · <a href="https://soundcloud.com/sanjeel-parekh/sanjeel_aaj-jaane-ki-zid" title="Aaj jaane ki zid na karo" target="_blank" style="color: #cccccc; text-decoration: none;">Aaj jaane ki zid na karo</a></div>
 
 <iframe width="80%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162845321&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
