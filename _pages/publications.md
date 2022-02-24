@@ -14,6 +14,10 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 
 
 ### Pre-prints
+- Listen to Interpret: Post-hoc Interpretability for Audio
+Networks with NMF
+J. Parekh, S. Parekh, P. Mozharovskyi, F. d’Alché-Buc, G. Richard
+[paper](https://arxiv.org/abs/2202.11479)
 - Emotion Transfer Using Vector-Valued Infinite Task Learning.  
 A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc.  
 [paper](/files/vITL_emotransfer.pdf), [code](https://github.com/allambert/torch_itl/tree/master)
@@ -47,7 +51,7 @@ WASPAA 2017
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 ICASSP 2017
 
-<p style="color:#b30000;">Audio / Image / Signal Processing </p>
+<p style="color:#b30000;">Machine Learning and Signal Processing for Audio/Image </p>
 
 ### International Conferences and Workshops
 - Deep pairwise classification and ranking for predicting media interestingness  
