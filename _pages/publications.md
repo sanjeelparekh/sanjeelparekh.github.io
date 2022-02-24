@@ -20,6 +20,7 @@ J. Parekh, S. Parekh, P. Mozharovskyi, F. d’Alché-Buc, G. Richard.
 [paper](https://arxiv.org/abs/2202.11479)
 - Emotion Transfer Using Vector-Valued Infinite Task Learning.  
 A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc.  
+First version presented at [CtrlGen Workshop, NeurIPS 2021](https://ctrlgenworkshop.github.io/)
 [paper](/files/vITL_emotransfer.pdf), [code](https://github.com/allambert/torch_itl/tree/master)
 
 <p style="color:#b30000;"> Multimodal Learning </p>
