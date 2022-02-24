@@ -51,6 +51,15 @@ WASPAA 2017
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 ICASSP 2017
 
+### Filed Patents 
+- Weakly Supervised Learning for Audio-Visual Events, 2018.  
+S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
+EP3540634A1
+
+- New approaches to motion informed audio source separation, 2017.  
+S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
+US15956021
+
 <p style="color:#b30000;">Machine Learning and Signal Processing for Audio/Image </p>
 
 ### International Conferences and Workshops
@@ -65,13 +74,3 @@ IEEE ISM 2016
 - Nyquist filter design using POCS methods: Including constraints in design  
 S. Parekh, P. Shah  
 IEEE ISSPIT 2014
-
-
-### Filed Patents 
-- Weakly Supervised Learning for Audio-Visual Events, 2018.  
-S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
-EP3540634A1
-
-- New approaches to motion informed audio source separation, 2017.  
-S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
-US15956021
