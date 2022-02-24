@@ -15,8 +15,8 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 
 ### Pre-prints
 - Listen to Interpret: Post-hoc Interpretability for Audio
-Networks with NMF.
-J. Parekh, S. Parekh, P. Mozharovskyi, F. d’Alché-Buc, G. Richard.
+Networks with NMF. 
+J. Parekh, S. Parekh, P. Mozharovskyi, F. d’Alché-Buc, G. Richard. 
 [paper](https://arxiv.org/abs/2202.11479)
 - Emotion Transfer Using Vector-Valued Infinite Task Learning.  
 A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc.  
