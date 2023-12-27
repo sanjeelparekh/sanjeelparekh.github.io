@@ -15,9 +15,9 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 <!-- <p style="color:#b30000;"> Multimodal Learning </p> -->
 
 ### Book Chapter and Journals
-- Tackling Interpretability in Audio Classification Networks with Non-negative Matrix Factorization
-J. Parekh, S. Parekh, P. Mozharovskyi, G. Richard, F. d’Alché-Buc
-IEEE/ACM Transactions on Audio, Speech and Language Processing, 2019
+- Tackling Interpretability in Audio Classification Networks with Non-negative Matrix Factorization  
+J. Parekh, S. Parekh, P. Mozharovskyi, G. Richard, F. d’Alché-Buc  
+IEEE/ACM Transactions on Audio, Speech and Language Processing, 2019  
 [paper](https://arxiv.org/abs/2305.07132)
 
 - Weakly supervised representation learning for audio-visual scene analysis  
@@ -29,13 +29,13 @@ S. Essid, S. Parekh, N. Duong, R. Serizel, A. Ozerov, F. Antonacci, A. Sarti
 Book chapter in Computational Analysis of Sound Scenes and Events, Springer, 2018
 
 ### International Conferences and Workshops
-- Listen to Interpret: Post-hoc Interpretability for Audio Networks with NMF
-J. Parekh, S. Parekh, P. Mozharovskyi, F. d’Alché-Buc, G. Richard
-NeurIPS 2022
+- Listen to Interpret: Post-hoc Interpretability for Audio Networks with NMF  
+J. Parekh, S. Parekh, P. Mozharovskyi, F. d’Alché-Buc, G. Richard  
+NeurIPS 2022  
 [paper](https://arxiv.org/abs/2202.11479)
 
-- Emotion Transfer Using Vector-Valued Infinite Task Learning.  
-A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc.  
+- Emotion Transfer Using Vector-Valued Infinite Task Learning  
+A. Lambert<sup>\*</sup>, S. Parekh<sup>\*</sup>, Z. Szabó, F. d’Alché-Buc  
 First version presented at [CtrlGen Workshop, NeurIPS 2021](https://ctrlgenworkshop.github.io/)  
 [paper](/files/vITL_emotransfer.pdf), [code](https://github.com/allambert/torch_itl/tree/master)
 
