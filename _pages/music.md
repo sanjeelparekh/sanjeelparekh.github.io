@@ -19,20 +19,14 @@ I grew up learning North Indian Classical vocals and thanks to stay at different
 
 <p style="color:#b30000;">Recordings</p>
 
-<iframe width="560" height="340" src="https://www.youtube.com/embed/HsY_kUPeG3I" frameborder="0"> </iframe>
-
-<iframe width="560" height="340" src="https://www.youtube.com/embed/a6efiu6M8JI" frameborder="0"> </iframe>
-
-<iframe width="560" height="340" src="https://www.youtube.com/embed/AbZJpdP0g9Y" frameborder="0"> </iframe>
-
-<iframe width="560" height="340" src="https://www.youtube.com/embed/8_Cg6OV_jcA" frameborder="0"> </iframe>
-
-<iframe width="560" height="340" src="https://www.youtube.com/embed/WUnalLuFgsw" frameborder="0"> </iframe>
-
-<iframe width="80%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162845321&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-<iframe width="80%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/77792660&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-
+- [Tere hawaale](https://youtu.be/cSal5aZF7vI)
+- [Tum naraz ho](https://youtu.be/HsY_kUPeG3I)
+- [Dil hawai hai](https://youtu.be/a6efiu6M8JI)
+- [Baanware](https://www.youtube.com/shorts/akft36kawBg)
+- [Tu hi ram hai, tu rahim hai](https://youtu.be/AbZJpdP0g9Y)
+- [Kab yaad mein tera saath nahi](https://youtu.be/8_Cg6OV_jcA)
+- [Aaj jaane ki zid](https://youtu.be/WUnalLuFgsw?si=-d3Yc7hQseFI4_q5)
+- [Hoshwalon ko khabar kya](https://soundcloud.com/sanjeel-parekh/sanjeel-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- [O mere dil ke chain](https://soundcloud.com/sanjeel-parekh/o-mere-dil-ke-chain?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 
