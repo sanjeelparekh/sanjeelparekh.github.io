@@ -17,7 +17,7 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 ### Book Chapter and Journals
 - Tackling Interpretability in Audio Classification Networks with Non-negative Matrix Factorization  
 J. Parekh, S. Parekh, P. Mozharovskyi, G. Richard, F. d’Alché-Buc  
-IEEE/ACM Transactions on Audio, Speech and Language Processing, 2023
+IEEE/ACM Transactions on Audio, Speech and Language Processing, 2023  
 [paper](https://arxiv.org/abs/2305.07132)
 
 - Weakly supervised representation learning for audio-visual scene analysis  
