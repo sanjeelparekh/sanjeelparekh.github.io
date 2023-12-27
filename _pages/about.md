@@ -13,8 +13,8 @@ Through these pages, I wish to share work that I do and if possible, other conte
 
 
 <p style="color:#b30000">Recent updates</p>
- - Dec 2023: A more complete version of our audio audio interpretability work with Jayneel accepted at IEEE TASLP!
+ - Dec 2023: A [more complete version of our audio interpretability](https://arxiv.org/abs/2305.07132) work with Jayneel accepted at IEEE TASLP!
  - Sep 2023: Attended DCASE 2023, see our spotlight talk [here](https://www.youtube.com/watch?v=N7ajQQksyMM&t=2319s)
  - Jun 2023: Second edition of our [MMM](https://sites.google.com/iiitvadodara.ac.in/mmm) course
- - Sep 2022: With [Jayneel Parekh], our work on audio interpretability accepted at NeurIPS 2022!
- - May 2022: With [Prof. Pratik Shah], first iteration of our course on [Music, Math and Machines (MMM)] (https://sites.google.com/iiitvadodara.ac.in/mmm), CEP - IIIT Vadodara 
+ - Sep 2022: (With [Jayneel Parekh](https://jayneelparekh.github.io/)) Our work on [audio interpretability](https://arxiv.org/abs/2202.11479) accepted at NeurIPS 2022!
+ - May 2022: (With [Prof. Pratik Shah](https://pratikiiitv.github.io/)), First iteration of our course on [Music, Math and Machines (MMM)](https://sites.google.com/iiitvadodara.ac.in/mmm), CEP - IIIT Vadodara 
