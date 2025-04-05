@@ -10,13 +10,13 @@ author_profile: true
 
 For a complete list please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=0k_gLpsAAAAJ&hl=en)
 
-<p style="color:#b30000;"> Multimodal Learning </p>
+<b> Multimodal Learning </b>
 
-- <span style="color:#42804a;">\[NEW\]<span> Learning to highlight audio by watching movies  
+- <span style="color:#b30000;">\[NEW\]</span> Learning to highlight audio by watching movies  
 C. Huang, R. Gao, J. Tsang, J. Kurcius, C. Bilen, C. Xu, A. Kumar, S. Parekh  
 CVPR 2025 (accepted)
 
--  <span style="color:#42804a;">\[NEW\]<span> [Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment](https://arxiv.org/abs/2501.18157)  
+-  <span style="color:#b30000;">\[NEW\]</span> [Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment](https://arxiv.org/abs/2501.18157)  
 J. Hong, S. Parekh, H. Chen, J. Donley, K. Tan, B. Xu, A. Kumar  
 ArXiv 2025
 
@@ -46,7 +46,7 @@ WASPAA 2017
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 ICASSP 2017
 
-<p style="color:#b30000;">ML for Audio/Image </p>
+<b>ML for Audio/Image </b>
 
 - [Tackling Interpretability in Audio Classification Networks with Non-negative Matrix Factorization](https://arxiv.org/abs/2305.07132) 
 J. Parekh, S. Parekh, P. Mozharovskyi, G. Richard, F. d’Alché-Buc  
@@ -66,7 +66,7 @@ J. Parekh, H. Tibrewal, S. Parekh
 ACM ICMR 2018   
 [code](https://github.com/jayneelparekh/Interestingness_ICMR)
 
-<p style="color:#b30000;">Signal Processing </p>
+<b>Signal Processing </b>
 
 - Improving audio retrieval through loudness profile categorization  
 S. Parekh, F. Font, X. Serra  
