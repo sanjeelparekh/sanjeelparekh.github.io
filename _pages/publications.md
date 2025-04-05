@@ -14,7 +14,7 @@ For a complete list please refer to <u><a href="https://scholar.google.com/citat
 
 - Learning to highlight audio by watching movies  
 C. Huang, R. Gao, J. Tsang, J. Kurcius, C. Bilen, C. Xu, A. Kumar, S. Parekh  
-Accepted to CVPR 2025
+CVPR 2025 (accepted)
 
 - [Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment](https://arxiv.org/abs/2501.18157)  
 J. Hong, S. Parekh, H. Chen, J. Donley, K. Tan, B. Xu, A. Kumar  
