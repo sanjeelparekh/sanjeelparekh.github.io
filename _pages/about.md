@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist at Meta Reality Labs Research. Prior to this, I did audio and ML research at Audio Analytic, Telecom Paris and Technicolor.  My doctoral thesis involved [learning representations for robust audio-visual scene analysis](https://pastel.archives-ouvertes.fr/tel-02115465).
+I am a research scientist at Meta, Reality Labs Research. Between 2016-2022, I did audio and ML research at Audio Analytic, Telecom Paris and Technicolor.  My doctoral thesis involved [learning representations for robust audio-visual scene analysis](https://pastel.archives-ouvertes.fr/tel-02115465).
 
 I am also passionate about music - grew up learning indian classical, [record](https://www.youtube.com/@sanjeelparekh869) scarcely but have a song on my mind at all times.
 
