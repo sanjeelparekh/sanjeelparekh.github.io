@@ -1,5 +1,5 @@
 ---
-title: "DCASE Meta Spotlight"
+title: "DCASE 2023 Meta Spotlight"
 collection: talks
 type: "Industry talk"
 permalink: 
