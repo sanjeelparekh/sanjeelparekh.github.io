@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-For a complete list please refer to <u><a href="https://scholar.google.com/citations?user=0k_gLpsAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+For a complete list please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=0k_gLpsAAAAJ&hl=en)
 
 <p style="color:#b30000;"> Multimodal Learning </p>
 
