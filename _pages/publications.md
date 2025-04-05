@@ -12,11 +12,11 @@ For a complete list please refer to [my Google Scholar profile](https://scholar.
 
 <p style="color:#b30000;"> Multimodal Learning </p>
 
-- Learning to highlight audio by watching movies  
+- <span style="color:#42804a;">\[NEW\]<span> Learning to highlight audio by watching movies  
 C. Huang, R. Gao, J. Tsang, J. Kurcius, C. Bilen, C. Xu, A. Kumar, S. Parekh  
 CVPR 2025 (accepted)
 
-- [Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment](https://arxiv.org/abs/2501.18157)  
+-  <span style="color:#42804a;">\[NEW\]<span> [Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment](https://arxiv.org/abs/2501.18157)  
 J. Hong, S. Parekh, H. Chen, J. Donley, K. Tan, B. Xu, A. Kumar  
 ArXiv 2025
 
