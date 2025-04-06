@@ -14,7 +14,8 @@ I am also passionate about music - grew up learning indian classical, [record](h
 <p style="color:#b30000">Recent updates</p>
 
  - Apr 2025: Attending ICASSP 2025 next week!
- - Feb 2025: Multimodal audio highlighting work with my intern Chao Huang accepted at CVPR 2025!  
+ - Feb 2025: Multimodal audio highlighting work with my intern Chao Huang accepted at CVPR 2025!
+ - Feb 2025: Invited talk at IIT Jodhpur
  - Jun 2024: Successful third edition of MMM course  
  - Apr 2024: [Invited talk](https://www.youtube.com/watch?v=JpUc28iYV-c) at University of Rochester (Voices if XR)  
  - Dec 2023: [Audio interpretability](https://arxiv.org/abs/2305.07132) work with Jayneel accepted at IEEE TASLP!  
