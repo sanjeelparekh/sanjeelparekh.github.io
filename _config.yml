@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : sanjeel parekh
 title_separator          : "-"
 name                     : &name Sanjeel Parekh
-description              : &description Research Scientist at Meta Reality Labs Research
+description              : &description Research Scientist at Meta
 url                      : https://sanjeelparekh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sanjeelparekh/sanjeelparekh.github.io"
